@@ -1,0 +1,31 @@
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}
+
+.size_s {
+	font: var(--font-s);
+}
+
+.size_m {
+	font: var(--font-m);
+}
+
+.size_l {
+	font: var(--font-l);
+}
+
+.size_xl{
+	font: var(--font-xl);
+}
+
+.bold {
+	font-weight: 700;
+}
